@@ -1,0 +1,24 @@
+{% load static %}
+<div class="item">
+  <div class="main-slider-one__item">
+    <div
+      class="main-slider-one__bg"
+      style="background-image: url('{{slider.imagem.url}}');"
+    ></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="main-slider-one__content">
+            <h2 class="main-slider-one__title">{{slider.titulo}}</h2>
+            <p class="main-slider-one__text">{{ slider.descricao}}</p>
+            <div class="main-slider-one__btn">
+              <a href="#" class="firdip-btn main-slider-one__btn__link"
+                >Categoria</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	2yd66TG_KTU
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	kGoQys8c5k0
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgEw%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+themeforest.net	TRUE	/	FALSE	1999999999	_fd_session	zFf2aKDGBoCMJrPyWaS1QZf09g%2BF8iQRTVNZcu2eJWbAMrEMnqt%2FTsis7eVvBVHCATLm2qJMCbZ5QuI17ovRVEKWWf2MtSqZXJ5DNHeKzvLaipXexXJ%2FwjiZ8fMpFzuYRcjVsV1ueWnuus1PJDjz8hjkYEmqx91bmE6wDD4g8bjfc947crN0f53TS4J%2FOZLLZzvz1b9g7e5XUEeCzHHL8LnEBmN6W2pPF9PjtviTqEOiPf6btGxhthX8hBOatGfR%2BMO9xPmWEv5C04hog05vdHzzXmfNMTpmeVgE2urgNf0Egjs9UbKJi975ZZu1JTVNwE1uRZs5c5uuCp0wcvVoaug%3D--1yIby7vtLkawyjIK--XjhozyOsl%2BrULfi2h%2BdQWg%3D%3D
+.youtube.com	TRUE	/	FALSE	1999999999	NID	516=PHmJ_YxfB_W2X0z2Go041fhkFkCoM7LzrhunRjLeQcUo9kUuNqyIroSj43q5SJkE8M7X-NyikN7V9TjGpfmdhWgX-yP6QULwUW99wyKEMgRqQjD6zZvSFySVSzwOlnGZ4ob1RJs6yZ-iu86hWtOBrHK2PIDQ6XczDaoQky_900o
+.themeforest.net	TRUE	/	FALSE	1999999999	__cf_bm	C5.awz9pwoZ5wJlLQaYs7meE24On4HfIgNL5XjVm7xc-1723388169-1.0.1.1-imNzM.axxWzZLCOxiIRK.lScexBJTrPMreRsBP0eLfYlf8FWW41l3M3F4UF95JzllGT93dwTWhMvNnPNfWdsVQ
+themeforest.net	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A172340471668038032
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A172340471668038032
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_jCLb9gAicnCbp3MSXvAkCQ=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A172340471668038032
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

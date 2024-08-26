@@ -1,0 +1,437 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/uf5wzayf.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/bh62ce51.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s5r19rbu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/gd9fkl2o.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/p1btdc0e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/iq79bfec.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/1s8dqi-l.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/fetblwhr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/5n_4yp8k.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/cacgrg6b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/3qqk0m4r.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/ksrqdpz0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/0ec1y3hu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/pnhflw8n.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/yayuenue.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/q0r9cq_b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/92sdru5x.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/oodcmhnq.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/cyusz1ck.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/lkz6rs0a.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/5lee6kft.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/mnfkjba2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/2-2ue1uw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/rj7-qijp.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/0vmnj-7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/swf3told.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/-yg99gsz.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/qk37s50s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/etjmezpm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/n6n0xqbc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/rl1nj0bg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/_n2ty382.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/olz3tefw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/du4i5_6p.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/m7jwy14g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/ew3a8ehd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/xy4gm7cn.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/cw0e6vls.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/256vtcal.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/-gk9a5_c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/uf5wzayf-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/bh62ce51-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s5r19rbu-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/gd9fkl2o-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/p1btdc0e-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/iq79bfec-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/1s8dqi-l-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/fetblwhr-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/5n_4yp8k-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/cacgrg6b-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/774_l8sv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/o95d1zz4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/47qojn7y.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/tev58gwr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/2rah19iu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/uf5wzayf-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/bh62ce51-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s5r19rbu-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/gd9fkl2o-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/p1btdc0e-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/fczztqpz.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/ye058iw9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/c2k4r753.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/2-2ue1uw-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/-yg99gsz-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/4m0a7v7w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/lo1gky26.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/1amrfa-z.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/qk37s50s-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/zwijkwyj.ttf) format('truetype');
+}
+
+.google-symbols {
+  font-family: 'Google Symbols';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+}

@@ -1,0 +1,39 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/q7pxrz40.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/q2fzgrdb.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/yg-ls-_z.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/a4i0ldv8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/4qhqrbtc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts.gstatic.com/pl57k2au.ttf) format('truetype');
+}
